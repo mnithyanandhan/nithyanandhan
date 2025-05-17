@@ -1,0 +1,25 @@
+table{
+    margin: auto;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+th,td{
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+
+thead{
+    background-color: rgb(61, 163, 92);
+}
+
+tbody{
+    background-color: chocolate;
+
+}
+
+video{
+    border: 5px dotted black;
+}
